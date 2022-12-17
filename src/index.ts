@@ -148,3 +148,9 @@ export const wallpaper =  {
     change : changeWallPaper,
     get : getImages
 }
+
+
+//TODO change wallpaper size
+
+//# values for picture-options: ‘none’, ‘wallpaper’, ‘centered’, ‘scaled’, ‘stretched’, ‘zoom’, ‘spanned’
+// gsettings set org.gnome.desktop.background picture-options 'scaled'
